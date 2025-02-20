@@ -4,7 +4,7 @@ This project is a simple web application that changes the background color rando
 
 ## Demo
 
-[Live Demo](https://charithabimsara.github.io/Color-Flipper---JS/)
+[Live Demo](https://charithabimsara.github.io/Random-Background-Color-Changer/)
 
 ## Features
 - Click the button to change the background color  
